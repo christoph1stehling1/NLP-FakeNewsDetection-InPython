@@ -6,4 +6,4 @@ Achieved accuracy: 95,5%
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-As part of my course "Natural Language Processing" in my Master's in Business Analytics and Big Data at IE Businees School/IE School of Human Sciences and Technology in Madrid, we were tasked to build a classifier that can differentiate fake from real news. This code accounted for 30% of our final grade.
+Here, I built a classifier that can differentiate fake from real news using techniques such as vectorization, tokenization, stemming, lemmatizing, removing stopwords and accents, ngrams, etc. Finally, I applied Cross Validation and GridSearch to optimize the classifier.
