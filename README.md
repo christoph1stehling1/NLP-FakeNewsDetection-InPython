@@ -2,7 +2,7 @@
 
 Dateset: to be downloaded in this repository
 
-Achieved accuracy: 95,5%
+Achieved accuracy: 95,5% (on test set)
 
 ------------------------------------------------------------------------------------------------------------------------------
 
