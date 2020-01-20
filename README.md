@@ -2,7 +2,7 @@
 
 Dateset: to be downloaded in this repository
 
-Achieved accuracy: 95,5% (on test set)
+Achieved accuracy: 95,5% (on 20% of trainset used as testset)
 
 ------------------------------------------------------------------------------------------------------------------------------
 
